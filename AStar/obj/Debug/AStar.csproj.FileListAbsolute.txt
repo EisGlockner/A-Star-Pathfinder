@@ -1,0 +1,6 @@
+C:\Dev\Rider Projects\AStar\AStar\obj\Debug\AStar.csproj.AssemblyReference.cache
+C:\Dev\Rider Projects\AStar\AStar\obj\Debug\AStar.csproj.CoreCompileInputs.cache
+C:\Dev\Rider Projects\AStar\AStar\bin\Debug\AStar.exe
+C:\Dev\Rider Projects\AStar\AStar\bin\Debug\AStar.pdb
+C:\Dev\Rider Projects\AStar\AStar\obj\Debug\AStar.exe
+C:\Dev\Rider Projects\AStar\AStar\obj\Debug\AStar.pdb
